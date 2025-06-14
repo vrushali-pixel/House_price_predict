@@ -82,3 +82,12 @@ The model files (`house_model.pkl` and `scaler.pkl`) are not included in the rep
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+
+
+   ## Screenshots
+
+   ### Form Submission
+   ![Form Submission](activated_link.png, successfully_run.png)
+
+   ### Prediction Result
+   ![Prediction Result](inputs.png, total_output.png)
