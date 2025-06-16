@@ -75,9 +75,7 @@ pune-house-price-predictor/
 - pandas
 - pickle
 
-## Note
 
-The model files (`house_model.pkl` and `scaler.pkl`) are not included in the repository as they are generated during model training. You'll need to train the model first using the `models.py` script.
 
 ## License
 
